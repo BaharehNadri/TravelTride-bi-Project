@@ -1,0 +1,4 @@
+Model,Accuracy,AUC,Precision,Recall,F1,n_train,n_test
+LogisticRegression,1.0,1.0,1.0,1.0,1.0,816740,204186
+RandomForest,1.0,1.0,1.0,1.0,1.0,816740,204186
+GradientBoosting,1.0,1.0,1.0,1.0,1.0,816740,204186
