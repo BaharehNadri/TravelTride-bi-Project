@@ -39,7 +39,7 @@ PDF Report: https://drive.google.com/file/d/1lWeLkqnsuOVTScVyxujy5or9-guDi_Xx/vi
 
 Video Presentation: https://drive.google.com/file/d/1Xab2PXGC2veE1prs5Ir50By1Q58kU1hd/view?usp=sharing
 
-GitHub Project Folder: 
+
 
 Tableau Public Link: https://public.tableau.com/app/profile/bahareh.nadri/viz/Travel_Tidetwbx/Story1?publish=yes
 
